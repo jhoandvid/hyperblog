@@ -2,4 +2,6 @@ Practica de git profesional
 
 hello 
 
+master 1
+
 jhoandrojas se  unio ala empresa de desarrollo
